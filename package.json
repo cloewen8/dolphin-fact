@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Provides a dolphin fact.",
   "main": "index.js",
+  "bin": {
+    "dolphin-fact": "dolphin-fact.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cloewen8/dolphin-fact.git"
