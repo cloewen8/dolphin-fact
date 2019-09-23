@@ -1,0 +1,22 @@
+{
+  "name": "dolphin-fact",
+  "version": "1.0.0",
+  "description": "Provides a dolphin fact.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloewen8/dolphin-fact.git"
+  },
+  "keywords": [
+    "dolphin",
+    "facts",
+    "fun",
+    "useless"
+  ],
+  "author": "Colton",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/cloewen8/dolphin-fact/issues"
+  },
+  "homepage": "https://github.com/cloewen8/dolphin-fact#readme"
+}
