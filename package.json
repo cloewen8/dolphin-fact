@@ -1,6 +1,6 @@
 {
   "name": "dolphin-fact",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Provides a dolphin fact.",
   "main": "index.js",
   "bin": {
