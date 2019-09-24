@@ -15,8 +15,8 @@ function readFact(err, data) {
 
 module.exports = function() {
 	try {
-		readFact(null, fs.readFileSync(`langs/${getLang()}.txt`, 'utf8'));
+		readFact(null, fs.readFileSync(`${__dirname}/langs/${getLang()}.txt`, 'utf8'));
 	} catch {
-		fs.readFile('langs/en.txt', 'utf8', readFact);
+		fs.readFile(__dirname + '/langs/en.txt', 'utf8', readFact);
 	}
 }
