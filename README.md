@@ -19,9 +19,9 @@ Requirements:
 - Please use spellcheck! If a spelling mistake is found, a correction will be requested.
   - Pull requests for grammer and spelling corrections are welcome.
 - All facts must be accompanied by a source.
-  - Avoid blogs and pictoral websites (links tend to break).
+  - Avoid blogs and pictorial websites (links tend to break).
   - Other websites on the subject must echo the same or similar fact (contradicting facts will be considered).
 - Try to keep facts interesting and safe for work.
-  - A fact about the name of a bone in a dolphin's jaw is a lot less interesting than a fact about the number of teeth a dolphin have.
+  - A fact about the name of a bone in a dolphin's jaw is a lot less interesting than a fact about the number of teeth a dolphin has.
   - Keep facts concise.
   - If a fact involves sensitive matters, keep it scientific.
